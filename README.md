@@ -6,6 +6,8 @@
 [The mount](https://cvilleschools.onshape.com/documents/57bf0dfc9d3ff66c8b3f6263/w/21d27be0ab79dfee4de649c0/e/b558de1b4d46b44bd2398de9)
 
 [The Fork](https://cvilleschools.onshape.com/documents/a12a4ca3abc6ce65d41e6806/w/a855c5736b112edff0f30f3a/e/b62831699f895f0cf09ff91a)
+
+[The Tire](https://cvilleschools.onshape.com/documents/907c65746811e3b599c44969/w/e5f93073839f57ba0e314f23/e/cf10da3e43eb5f4b96e8df38)
 # picture 
 
 ![The base](images/thebase.png)
