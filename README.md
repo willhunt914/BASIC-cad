@@ -15,3 +15,5 @@
 ![The mount](images/themount.png)
 
 ![The fork](images/thefork.png)
+
+![The Tire](images/thetire.png)
