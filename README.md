@@ -16,4 +16,4 @@
 
 ![The fork](images/thefork.png)
 
-![The Tire](images/thetire.png)
+![The tire](images/thetire.png)
