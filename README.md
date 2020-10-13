@@ -8,6 +8,9 @@
 [The Fork](https://cvilleschools.onshape.com/documents/a12a4ca3abc6ce65d41e6806/w/a855c5736b112edff0f30f3a/e/b62831699f895f0cf09ff91a)
 
 [The Tire](https://cvilleschools.onshape.com/documents/907c65746811e3b599c44969/w/e5f93073839f57ba0e314f23/e/cf10da3e43eb5f4b96e8df38)
+
+[The Wheel](https://cvilleschools.onshape.com/documents/e5d4724b5ef65eb14f83933f/w/5a3f2e773e5c37631703fffc/e/b85b33ad881c2e4c788dbb2a)
+
 # picture 
 
 ![The base](images/thebase.png)
