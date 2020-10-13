@@ -20,3 +20,5 @@
 ![The fork](images/thefork.png)
 
 ![The tire](images/thetire.png)
+
+![The wheel](images/thewheel.png)
