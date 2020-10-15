@@ -11,6 +11,11 @@
 
 [The Wheel](https://cvilleschools.onshape.com/documents/e5d4724b5ef65eb14f83933f/w/5a3f2e773e5c37631703fffc/e/b85b33ad881c2e4c788dbb2a)
 
+[The Axle and Collar](https://cvilleschools.onshape.com/documents/221d504666249d849708dc49/w/c233c3d6086ed21052102d41/e/cd1700ef66908ddb52d9eba2)
+
+[Big Bearing](https://cvilleschools.onshape.com/documents/24ef65c5c296e1d60f993bd1/w/23eaebe4227943af16eb5e0d/e/2162aead66d51c773737404e)
+
+
 # picture 
 
 ![The base](images/thebase.png)
@@ -22,3 +27,4 @@
 ![The tire](images/thetire.png)
 
 ![The wheel](images/thewheel.png)
+
