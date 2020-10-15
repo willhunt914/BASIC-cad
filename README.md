@@ -28,3 +28,6 @@
 
 ![The wheel](images/thewheel.png)
 
+![The big bearing](images/bigbearing.png)
+
+![the axle](images/axle.png)
