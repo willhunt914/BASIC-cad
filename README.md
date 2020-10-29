@@ -39,3 +39,5 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 ![The big bearing](images/bigbearing.png)
 
 ![the axle](images/axle.png)
+
+![the caster](images/caster.png)
