@@ -23,12 +23,15 @@ We are creating a caster.
 # description 
 The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
+# Problems 
+The main problem that I ran into was staying focused. Online school has made it difficult to work but the videos made it easyer to work allong with it and stay focused
 
 # picture 
 
 ![The base](images/thebase.png)
 
 ![The mount](images/themount.png)
+
 
 ![The fork](images/thefork.png)
 
